@@ -1,7 +1,7 @@
 """
 My first Python program in this journey.
-Author: [Your Name]
-Date: [Today's Date]
+Author: Abhishek Pandey
+Date: 01/19/2026
 """
 
 def greet(name):
