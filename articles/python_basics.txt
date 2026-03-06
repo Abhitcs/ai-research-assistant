@@ -1,0 +1,5 @@
+TITLE: Python Basics
+DATE: 2026-03-06 13:06
+----------------------------------------
+Python is a very good language.
+Python is very flexible.
